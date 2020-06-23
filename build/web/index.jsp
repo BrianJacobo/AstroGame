@@ -34,18 +34,7 @@ jacobofullstack --%> <%@page contentType="text/html" pageEncoding="UTF-8"%>
     <link rel="stylesheet" type="text/css" href="./Resources/css/style.css" />
   </head>
   <body>
-    <header>
-      <div class="contenedor">
-        <h2 class="logotipo">ASTROGAMES</h2>
-        <nav>
-          <a href="#" class="active">Inicio</a>
-          <a href="#">Torneos</a>
-          <a href="#">Recompensas</a>
-          <a href="#">Clasificados</a>
-          <a href="#">Iniciar sesión</a>
-        </nav>
-      </div>
-    </header>
+    <%@include file="WEB-INF/jsp/cheader.jsp" %>
     <main>
       <div class="pelicula-principal">
         <div class="contenedor">
