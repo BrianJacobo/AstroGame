@@ -1,0 +1,43 @@
+<footer>
+      <div class="contenedor">
+        <div class="redes">
+          <a
+            href="https://www.facebook.com/Brianjacobofuentes/"
+            target="_blank"
+          >
+            <img
+              src="./Resources/icons/facebook.png"
+              alt="imagen de facebook"
+            />
+          </a>
+          <a
+            href="https://www.spotify.com/pe/account/overview/"
+            target="_blank"
+          >
+            <img src="./Resources/icons/medium.png" alt="imagen de facebook" />
+          </a>
+          <a href="https://github.com/BrianJacobo">
+            <img
+              src="./Resources/icons/github.png"
+              alt="imagen de facebook"
+              target="_blank"
+            />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/brian-yasier-jacobo-fuentes-750b75196"
+            target="_blank"
+          >
+            <img
+              src="./Resources/icons/linkedin.png"
+              alt="imagen de facebook"
+            />
+          </a>
+        </div>
+        <div class="parrafo">
+          <p>
+            © 2020 Brian Jacobo Fuentes | Designer web developer. Todos los
+            derechos reservados
+          </p>
+        </div>
+      </div>
+</footer>

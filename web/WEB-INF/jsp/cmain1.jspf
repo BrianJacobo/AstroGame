@@ -1,0 +1,18 @@
+<div class="pelicula-principal">
+        <div class="contenedor">
+          <h3 class="titulo">Pubg Mobile</h3>
+          <p class="description">
+            Playerunknown's Battlegrounds es un videojuego de batalla en línea
+            multijugador masivo desarrollado por Brendan Greene y publicado por
+            Bluehole para Microsoft Windows, Xbox One, PlayStation 4, Android e
+            iOS. El juego era una beta battle royale de ARMA 3 que salió en
+            2015.
+          </p>
+          <button role="button" class="boton">
+            <i class="fas fa-play"></i>Reproducir
+          </button>
+          <button role="button" class="boton">
+            <i class="fas fa-info-circle"></i>Más información
+          </button>
+        </div>
+</div>

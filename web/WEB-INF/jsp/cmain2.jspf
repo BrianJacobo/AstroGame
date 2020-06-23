@@ -1,0 +1,123 @@
+ <div class="contenedor">
+        <button type="button" class="btn btn-primary">Steam</button>
+        <button type="button" class="btn btn-secondary">Uplay</button>
+        <button type="button" class="btn btn-success">Origon</button>
+        <button type="button" class="btn btn-danger">Battle-net</button>
+        <button type="button" class="btn btn-warning">Rockstar</button>
+        <button type="button" class="btn btn-info">Switch</button>
+        <button type="button" class="btn btn-light">Xbox</button>
+        <button type="button" class="btn btn-dark">PlayStation</button>
+        <button type="button" class="btn btn-success">Indies</button>
+        <button type="button" class="btn btn-secondary">Others...</button>
+      </div>
+
+      <div class="peliculas-recomendadas contenedor">
+        <div class="contenedor-titulo-controles">
+          <h3>Juegos Recomendados</h3>
+          <div class="indicadores"></div>
+        </div>
+
+        <div class="contenedor-principal">
+          <button role="button" id="flecha-izquierda" class="flecha-izquierda">
+            <i class="fas fa-angle-left"></i>
+          </button>
+
+          <div class="contenedor-carousel">
+            <div class="carousel">
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/pubg2.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/pubg3.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/pubg4.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/pubg5.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/pubg6.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"
+                  ><img src="./Resources/img/programacion1.jpg" alt=""
+                /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"
+                  ><img
+                    src="./Resources/img/anime-chica-de-gafas-con-uniforme-de-estudiante_3840x2160_xtrafondos.com.jpg"
+                    alt=""
+                /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/936813.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/633208.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/924300.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/633215.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/633244.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/633246.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/633262.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/633288.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/633294.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/642551.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/648484.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/656827.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/751400.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/815400.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/924300.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/936813.png" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/936814.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/936934.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"><img src="./Resources/img/942063.jpg" alt="" /></a>
+              </div>
+              <div class="pelicula">
+                <a href="#"
+                  ><img src="./Resources/img/programacion2.jpg" alt=""
+                /></a>
+              </div>
+            </div>
+          </div>
+
+          <button role="button" id="flecha-derecha" class="flecha-derecha">
+            <i class="fas fa-angle-right"></i>
+          </button>
+        </div>
+      </div>
